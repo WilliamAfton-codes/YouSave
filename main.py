@@ -24,3 +24,4 @@ def mainScript():
             link = str(input("\nPaste your fill YouTube link here: "))
 mainScript()
 print("Video saved successfully!")
+input("[Press Enter to exit]")
